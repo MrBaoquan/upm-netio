@@ -1,0 +1,21 @@
+{
+  "name": "com.parful.netio",
+  "version": "1.0.0",
+  "displayName": "NetIO Admin",
+  "description": "用于管理NetIO设备的开发套件",
+  "unity": "2019.1",
+  "documentationUrl": "https://example.com/",
+  "changelogUrl": "https://example.com/changelog.html",
+  "licensesUrl": "https://example.com/licensing.html",
+  "dependencies": {
+    "com.parful.unihper": "1.24.1010",
+    "com.parful.uniart":"1.1.3"
+ },
+ "keywords": [
+    "NetIO","IOToolkit"
+  ],
+  "author": {
+    "name": "MrBaoquan",
+    "email": "mrma617@gmail.com"
+  }
+}

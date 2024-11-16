@@ -1,0 +1,13 @@
+﻿{
+    "Persistence": {
+        "NetIOControlUI": {
+            "asset": "NetIOControlUI",
+            "type": "Popup",
+            "canvas": "CanvasDefault"
+        }
+    },
+
+    "SceneEntry": {},
+
+    "SceneGame": {}
+}

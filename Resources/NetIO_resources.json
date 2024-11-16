@@ -1,0 +1,14 @@
+{
+    "Persistence": [
+        {
+            "driver": "Resources",
+            "type": "GameObject",
+            "path": "NetIO_UIs"
+        },
+        {
+            "driver": "Resources",
+            "type": "GameObject",
+            "path": "NetIO_Prefabs"
+        }
+    ]
+}
