@@ -2,7 +2,7 @@
   "name": "com.parful.netio",
   "version": "1.0.0",
   "displayName": "NetIO Admin",
-  "description": "用于管理NetIO设备的开发套件",
+  "description": "基于NetIO设备的管理平台",
   "unity": "2019.1",
   "documentationUrl": "https://example.com/",
   "changelogUrl": "https://example.com/changelog.html",
